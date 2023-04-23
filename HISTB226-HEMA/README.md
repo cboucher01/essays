@@ -1,25 +1,24 @@
-# Hello, Juncture
+# Tracing the Modernization and Recent Growth of Historical European Martial Arts (HEMA)
 
-This Juncture essay illustrates the use of a few Markdown formatting tags and the incorporation of an image and a map into a Juncture essay.
+(explain purpose of this essay)
 
-## Aulacophora indica
+## What is HEMA?
 
-.ve-media wc:The_Bug_Peek.jpg right
 
-The image depicts a leaf beetle (Aulacophora indica) (Family: Chrysomelidae; subfamily: Galerucinae) looking out from a leaf hole of Alnus nepalensis tree. Adult leaf beetles make holes in host plant leaves while feeding. They camouflage themselves with these holes.
 
-This image is hosted on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Bug_Peek.jpg) and was runner-up for Wikimedia Commons Picture of the Year for 2021.
+## HEMA Timeline: Tracing the Modernization and Recent Growth of Historical European Martial Arts (HEMA)
 
-Image controls are located in the top-left corner of the image and can be seen when hovering over the image.  These controls support image zoom, rotation, full-screen viewing, and repositioning to the start position.  Panning can be performed with keyboard arrow keys or by mouse click-and-drag.
 
-Image information can be seen when hovering the cursor over the info icon located in the top-right corner of the image.  The Image information popover includes the image title, description, attribution statement, and reuse rights.
 
-## Chitwan National Park, Nepal
+## The Post-Pandemic HEMA Surge
 
-.ve-map Q1075023 right
+HEMA fencers (what are people who do HEMA called?) report in online forums that their clubs and classes have doubled in size since the pandemic, and they continue to grow. Interestingly, however, they do not link this growth to online HEMA communities, as many HEMA clubs and groups have moved their online discussions from public platforms, such as Facebook and Reddit, to private Discord servers.
 
-The map is centered on the Chitwan National Park in Nepal, which is the location associated with the image above.  The Wikidata identifier for Chitwan National Park is `Q1075023`.  When a map location is specified using a Wikidata ID (or QID) Juncture can automatically retrieve the geographic coordinates for map centering.
+HEMA fencers report shortages of gear as vendors struggle to produce enough gear to keep up with demand. Some report that new club members are seeing a six month wait for gear like sparring gloves, whereas such delays were not seen prior to the pandemic.
 
-An alternative to using a Wikidata identifier for map positioning is to use regular latitude and longitude coordinates.  In that approach the QID would be replaced with the coordinates `27.5,84.333`, resulting in an identical map.
+### Why did the pandemic cause HEMA to gain popularity?
 
-Similar to the image viewer, map zooming is controlled using the buttons located in the top-left corner of the map viewer.  Panning is performed with the keyboard arrow keys or by mouse click-and-drag.
+Theory 1: During the pandemic, people spent more time online, where they encountered HEMA content and became interested in the sport, joining online HEMA communities and eventually attending in-person classes and tournaments as restrictions on indoor gatherings eased.
+
+Theory 2: HEMA, as a form of historical reenactment, appeals to popular interest in make-believe and escapism, which rose in response to the pandemic.
+
