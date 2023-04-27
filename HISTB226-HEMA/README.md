@@ -1,10 +1,23 @@
-# Tracing the Modernization and Recent Growth of Historical European Martial Arts (HEMA)
+.ve-header "Tracing the Modernization and Recent Growth of Historical European Martial Arts"  wc:Arte_De_Athletica_V2_11.jpg options=pct:5,0,90,100
+By [Cameron Boucher](https://cboucher01.github.io/) ● 26 April, 2023
 
-(explain purpose of this essay)
+This essay chronicles the development of Historical European Martial Arts (HEMA) into a modern sport. HEMA, which has always been a fairly niche sport, gradually rose in popularity in the 2010s. Then, following the COVID-19 pandemic, HEMA clubs and competitions saw a dramatic increase in membership and registration. HEMA's post-pandemic rise in popularity has caused gear shortages as vendors struggle to meet the increased demand for HEMA equipment. 
 
 ## What is HEMA?
 
+.ve-media flickr:9701213533 right caption="A HEMA practitioner wielding a longsword squares off against her opponent."
 
+Historical European Martial Arts (HEMA), is a form of martial arts based on surviving technical treatises and martial arts manuals from the late middle ages, the Renaissance, and the early modern period. Combatants fight with historically-accurate weaponry—most commonly longswords, rapiers, and sabers, and sometimes with small shields or bucklers—and wear modern protective equipment, including a fencing helmet, a padded fencing jacket, and armored gloves as well as forearm and leg protection. 
+
+Scholarly research is important to the sport. Many HEMA practitioners are as dedicated to researching medieval and early modern swordsmanship and combat as they are to practicing the techniques and engaging in combat themselves.
+
+As yet, there is no international governing body for HEMA tournaments and events, although national governing bodies exist in some countries. Tournaments are generally run and hosted by individual clubs.
+
+.ve-media flickr:9704449246 right caption="Two HEMA competitors grapple in close-quarters combat."
+
+.ve-media
+    - wc:De_Fechtbuch_Talhoffer_005.jpg region=pct:20,5,70,60
+    - flickr:9704446836
 
 ## HEMA Timeline: Tracing the Modernization and Recent Growth of Historical European Martial Arts (HEMA)
 
@@ -12,9 +25,9 @@
 
 ## The Post-Pandemic HEMA Surge
 
-HEMA fencers (what are people who do HEMA called?) report in online forums that their clubs and classes have doubled in size since the pandemic, and they continue to grow. Interestingly, however, they do not link this growth to online HEMA communities, as many HEMA clubs and groups have moved their online discussions from public platforms, such as Facebook and Reddit, to private Discord servers.
+HEMA practitioners report in online forums that their clubs and classes have doubled in size since the pandemic, and they continue to grow. Interestingly, however, they do not link this growth to online HEMA communities, as many HEMA clubs and groups have moved their online discussions from public platforms, such as Facebook and Reddit, to more private online spaces.
 
-HEMA fencers report shortages of gear as vendors struggle to produce enough gear to keep up with demand. Some report that new club members are seeing a six month wait for gear like sparring gloves, whereas such delays were not seen prior to the pandemic.
+HEMA practitioners also report shortages of gear as vendors struggle to produce enough gear to keep up with demand. Some report that new club members are seeing a six month wait for gear like sparring gloves, whereas such delays were not seen prior to the pandemic.
 
 ### Why did the pandemic cause HEMA to gain popularity?
 
