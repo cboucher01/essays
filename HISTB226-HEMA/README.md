@@ -1,7 +1,7 @@
 .ve-media wc:Arte_De_Athletica_V2_11.jpg height=300px width=100% fit=cover caption="Illustration from Arte de Athletica vol. 2, ca. 1540s"
 
 # Tracing the Modernization and Recent Growth of Historical European Martial Arts (HEMA)
-By [Cameron Boucher](https://cboucher01.github.io/) ● 26 April, 2023
+By [Cameron Boucher](https://cboucher01.github.io/) ● 27 April, 2023
 
 This essay chronicles the development of Historical European Martial Arts (HEMA) into a modern sport. HEMA, which has always been a fairly niche sport, gradually rose in popularity in the 2010s. Then, following the COVID-19 pandemic, HEMA clubs and competitions saw a dramatic increase in membership and registration. HEMA's post-pandemic rise in popularity has caused gear shortages as vendors struggle to meet the increased demand for HEMA equipment. 
 
