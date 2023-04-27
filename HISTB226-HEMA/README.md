@@ -1,4 +1,4 @@
-.ve-media wc:Arte_De_Athletica_V2_11.jpg height=300px width=100% fit=cover
+.ve-media wc:Arte_De_Athletica_V2_11.jpg height=300px width=100% fit=cover caption="Illustration from Arte de Athletica vol. 2, ca. 1540s"
 
 # Tracing the Modernization and Recent Growth of Historical European Martial Arts
 By [Cameron Boucher](https://cboucher01.github.io/) ● 26 April, 2023
