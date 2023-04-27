@@ -1,3 +1,5 @@
+.ve-style ./HEMA-styles.css
+
 .ve-header "Tracing the Modernization and Recent Growth of Historical European Martial Arts"  wc:Arte_De_Athletica_V2_11.jpg options=pct:5,0,90,100
 By [Cameron Boucher](https://cboucher01.github.io/) ● 26 April, 2023
 
