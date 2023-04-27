@@ -3,7 +3,7 @@
 # Tracing the Modernization and Recent Growth of Historical European Martial Arts (HEMA)
 By [Cameron Boucher](https://cboucher01.github.io/) ● 27 April, 2023
 
-This essay chronicles the development of Historical European Martial Arts (HEMA) into a modern sport. HEMA, which has always been a fairly niche sport, gradually rose in popularity in the 2010s. Then, following the COVID-19 pandemic, HEMA clubs and competitions saw a dramatic increase in membership and registration. HEMA's post-pandemic rise in popularity has caused gear shortages as vendors struggle to meet the increased demand for HEMA equipment. 
+This essay chronicles the development of Historical European Martial Arts (HEMA) into a modern sport. HEMA, which has always been a fairly niche sport, gradually rose in popularity around the world during the 2010s. Then, following the COVID-19 pandemic, HEMA clubs and competitions saw a dramatic increase in membership and registration. HEMA's post-pandemic rise in popularity is also evidenced by gear shortages as vendors struggle to meet the increased demand for HEMA equipment. This essay discusses some potential explanations for HEMA's post-pandemic surge in popularity, highlighting the role of the Internet in facilitating the growth of the sport.
 
 ## What is HEMA?
 
@@ -33,6 +33,6 @@ HEMA practitioners also report shortages of gear as vendors struggle to produce 
 
 ### Why did the pandemic cause HEMA to gain popularity?
 
-Theory 1: During the pandemic, people spent more time online, where they encountered HEMA content and became interested in the sport, joining online HEMA communities and eventually attending in-person classes and tournaments as restrictions on indoor gatherings eased.
+Hypothesis 1: During the pandemic, people spent more time online, where they encountered HEMA content and became interested in the sport, joining online HEMA communities and eventually attending in-person classes and tournaments as restrictions on indoor gatherings eased.
 
-Theory 2: HEMA, as a form of historical reenactment, appeals to popular interest in make-believe and escapism, which rose in response to the pandemic.
+Hypothesis 2: HEMA, as a form of historical reenactment, appeals to popular interest in make-believe and escapism, which rose in response to the pandemic.
