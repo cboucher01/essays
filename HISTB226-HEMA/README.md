@@ -1,4 +1,4 @@
-.ve-media wc:Arte_De_Athletica_V2_11.jpg height=200px width=100% fit=cover
+.ve-media wc:Arte_De_Athletica_V2_11.jpg height=300px width=100% fit=cover
 
 # Tracing the Modernization and Recent Growth of Historical European Martial Arts
 By [Cameron Boucher](https://cboucher01.github.io/) ● 26 April, 2023
@@ -15,17 +15,17 @@ Historical research and scholarship are important to the sport. Many HEMA practi
 
 As yet, there is no international governing body for HEMA tournaments and events, although national governing bodies exist in some countries. Tournaments are generally run and hosted by individual clubs. While HEMA remains a relatively small, niche sport, it has seen a surge in popularity since the COVID-19 pandemic.
 
-.ve-media flickr:9704449246 right caption="Two HEMA competitors grapple in close-quarters combat."
-
 .ve-media
     - wc:De_Fechtbuch_Talhoffer_005.jpg region=pct:20,5,70,60
     - flickr:9704446836
 
-## HEMA Timeline: Tracing the Modernization and Recent Growth of Historical European Martial Arts (HEMA)
+## The History of HEMA: A Timeline
 
-
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1VM49E30m2B6B8ddrJeeCF5DmKCUKmWpEf2Z3aYwgzeM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## The Post-Pandemic HEMA Surge
+
+.ve-media flickr:9704449246 right caption="Two HEMA competitors grapple in close-quarters combat."
 
 HEMA practitioners report in online forums that their clubs and classes have doubled in size since the pandemic, and they continue to grow. Interestingly, however, they do not link this growth to online HEMA communities, as many HEMA clubs and groups have moved their online discussions from public platforms, such as Facebook and Reddit, to more private online spaces.
 
