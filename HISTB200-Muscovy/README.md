@@ -6,15 +6,19 @@ This project aims to provide a detailed and visually-appealing timeline of signi
 ## Timeline of Early Anglo-Russian Relations
 
 .ve-iframe https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1CnZPvNZv8tuIRqEyNQ7YY6-0kNWmITq64tlAs1jO1ho&font=Lustria-Lato&lang=en&initial_zoom=2&height=650
-Note: Because Timeline.js does not support footnote, citations in the timeline are provided in author-date format.
+Note: Because Timeline.js does not support the use of footnotes, citations in the timeline are provided in author-date format.
 
 ## Early Anglo-Russian Relations and the Atlantic World
+
+The study of early Anglo-Russian relations can provide a __ perspective on the development of England into a dominant imperial power.
+
+Resources extracted from Russia proved useful for the expansion of England's naval power. For example, cordage from Russia was used to build ships for the English Navy and the East India Company.
 
 ## Merchants and the Commonwealth
 
 ## Imagining a Muscovy Company Colony and Entrepôt
 
-> Whereas the state had encouraged the commercial community to drive forward its imperial ambitions in Ireland and Virginia, the limitations of state support and authority encouraged the Muscovy and East India companies to take matters into their own hands.[^?]
 
+> Whereas the state had encouraged the commercial community to drive forward its imperial ambitions in Ireland and Virginia, the limitations of state support and authority encouraged the Muscovy and East India companies to take matters into their own hands.[^?]
 
 [^?]: Smith, *Merchants*, 220.
