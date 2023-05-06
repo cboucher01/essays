@@ -17,7 +17,7 @@ Historical research and scholarship are important to the sport. Many HEMA practi
 
 > HEMA is not just a sport or a martial art. More than any of the other ways in which the use of the medieval sword has been recreated, HEMA has promoted the considered and critical study of the historical sources.[^2] 
 
-According to Jones, there are an increasing number of "scholarly practitioners" of HEMA, who combine traditional academic methods of historical research with their HEMA practice. These scholars have built a body of research around the historical *fechtbücher*, or combat manuals, seeking to situate them in their historical context.
+According to Jones, there are an increasing number of "scholarly practitioners" of HEMA, who combine traditional academic methods of historical research with their HEMA practice. These scholars have built a body of research around the surviving historical *fechtbücher*, or combat manuals, seeking to situate them in their historical context.
 
 As yet, there is no single international governing body for HEMA tournaments and events, although many national and international organizations exist. Tournaments are generally run and hosted by individual clubs. It is also worth noting that not every HEMA club belongs to a national or international organization, and not every HEMA practitioner is a member of a club. In fact, some HEMA practitioners remain fiercely independent of clubs and organizations, preferring to study and practice historical martial arts independently or in small, closed groups with other scholars.
 
