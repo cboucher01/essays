@@ -43,7 +43,7 @@ One study into the effects of the COVID-19 pandemic on the practice of various m
 
 It also seems likely that, because many people spent significantly more time online during the pandemic, they may have been more likely to encounter HEMA content on social media and become interested in the sport, joining online HEMA communities and eventually attending in-person classes and tournaments as restrictions on indoor gatherings eased. In other words, as HEMA communities moved online and people in general began to spend more time on the Internet, HEMA may have become visible to more people, generating interest in the niche sport. 
 
-It is worth noting that, given the fact that HEMA first arose in the late 1990s, around the same time as such groundbreaking digital technologies as Google Search, the Internet has played significant role in the development of the sport from the very start. According to Robert Jones, the Internet has proved instrumental for HEMA:
+It is worth noting that, given the fact that HEMA first arose in the late 1990s, around the same time as such groundbreaking digital technologies as Google Search, the Internet has played a significant role in the development of the sport from the very start. According to Robert Jones, the Internet has proved instrumental for HEMA:
 
 > HEMA benefited from the fact that it was developing alongside an ever-increasing reach of the internet. This provided opportunities to create effective web forums, allowed for the creation of an international community, and enabled a huge expansion in the exchange of sources, knowledge, theories, and practice.[^7]
 
