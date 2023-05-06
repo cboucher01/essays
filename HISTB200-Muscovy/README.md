@@ -5,7 +5,7 @@
     #juncture h1, h2, h3 { font-family: Lustria; }
 </style>
 
-# 16th- and 17th-century Anglo-Russian Relations: What's up with that?
+# 16th- and 17th-century Anglo-Russian Relations: A Timeline
 Cameron Boucher ● 6 May, 2023
 
 .ve-media wc:Russia_Mercator_1595.jpg caption="Map of Eastern Europe by Gerard Mercator, published in 1595" right
