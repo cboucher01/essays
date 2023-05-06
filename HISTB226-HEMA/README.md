@@ -13,7 +13,7 @@ Historical European Martial Arts (HEMA), is a form of martial arts based on surv
 
 HEMA is similar to Historical Medieval Battle (HMB), also known as buhurt, in that it has a competitive element, but it uses modern protective equipment instead of historical equipment, and it places greater emphasis on authenticity of method. Also, HEMA uses a scoring system similar to modern sports fencing, though with some modifications to account for differences in fighting style and weaponry.
 
-Historical research and scholarship are important to the sport. Many HEMA practitioners are as dedicated to researching medieval and early modern swordsmanship and combat as they are to practicing the techniques and engaging in combat themselves. Historian Robert W. Jones argues that, because of this, HEMA is more than just a sport or a martial art:
+Historical research and scholarship are important to the sport. Many HEMA practitioners are as dedicated to researching medieval and early modern swordsmanship and combat as they are to practicing the techniques and engaging in combat themselves. Historian Robert W. Jones argues that, because of this, HEMA is more than a sport or a martial art:
 
 > HEMA is not just a sport or a martial art. More than any of the other ways in which the use of the medieval sword has been recreated, HEMA has promoted the considered and critical study of the historical sources.[^2] 
 
