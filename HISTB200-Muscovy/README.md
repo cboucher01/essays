@@ -1,3 +1,5 @@
+.ve-media wc:Russia_Mercator_1595.jpg height=300px width=100% fit=cover caption="Illustration from Arte de Athletica vol. 2, ca. 1540s"
+
 # 16th- and 17th-century Anglo-Russian Relations: What's up with that?
 Cameron Boucher ● 6 May, 2023
 
