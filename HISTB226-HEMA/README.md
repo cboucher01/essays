@@ -9,7 +9,7 @@ This essay examines the recent growth of Historical European Martial Arts (HEMA)
 
 .ve-media flickr:9701213533 right caption="A HEMA practitioner wielding a longsword squares off against her opponent."
 
-Historical European Martial Arts (HEMA), is a form of martial arts based on surviving technical treatises and martial arts manuals from the late middle ages, the Renaissance, and the early modern period. Combatants fight with historically-accurate weaponry—most commonly longswords, rapiers, and sabers, and sometimes with small shields or bucklers—and wear modern protective equipment, including a fencing helmet, a padded fencing jacket, and armored gloves as well as forearm and leg protection. 
+Historical European Martial Arts (HEMA), is a form of martial arts based on surviving technical treatises and martial arts manuals from the ==late middle ages=={Q212976}, the ==Renaissance=={Q4692}, and the ==early modern period=={Q5308718}. Combatants fight with historically-accurate weaponry—most commonly longswords, rapiers, and sabers, and sometimes with small shields or bucklers—and wear modern protective equipment, including a fencing helmet, a padded fencing jacket, and armored gloves as well as forearm and leg protection. 
 
 HEMA is similar to Historical Medieval Battle (HMB), also known as buhurt, in that it has a competitive element, but it uses modern protective equipment instead of historical equipment, and it places greater emphasis on authenticity of method. Also, HEMA uses a scoring system similar to modern sports fencing, though with some modifications to account for differences in fighting style and weaponry.
 
