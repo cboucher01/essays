@@ -19,5 +19,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "1e1d0216"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Sakhalin",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7000:g7000:ct000746",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:12566.5537109375,5843.6337890625,1164.6318359375,831.771484375"
+      },
+      "id": "925eca97"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "2c27b985"
   }
 ]
