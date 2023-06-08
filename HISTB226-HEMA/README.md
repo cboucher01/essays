@@ -3,7 +3,7 @@
 # Tracing the Recent Growth of Historical European Martial Arts (HEMA)
 By Cameron Boucher ● 5 May, 2023
 
-This essay examines the recent growth of Historical European Martial Arts (HEMA). A relatively new sport, HEMA first appeared in the late 1990s, and while it has always been a fairly niche practice, HEMA rose in popularity around the world during the 2010s.[^1] Then, following the COVID-19 pandemic, HEMA clubs and competitions saw a dramatic increase in membership and registration. HEMA's post-pandemic rise in popularity is also evidenced by gear shortages as vendors struggle to meet the increased demand for HEMA equipment. This essay discusses some potential explanations for HEMA's post-pandemic surge in popularity, highlighting the role of the Internet in facilitating the growth of the sport.
+This essay examines the recent growth of ==Historical European Martial Arts (HEMA)=={Q924194}. A relatively new sport, HEMA first appeared in the late 1990s, and while it has always been a fairly niche practice, HEMA rose in popularity around the world during the 2010s.[^1] Then, following the COVID-19 pandemic, HEMA clubs and competitions saw a dramatic increase in membership and registration. HEMA's post-pandemic rise in popularity is also evidenced by gear shortages as vendors struggle to meet the increased demand for HEMA equipment. This essay discusses some potential explanations for HEMA's post-pandemic surge in popularity, highlighting the role of the Internet in facilitating the growth of the sport.
 
 ## What is HEMA?
 
@@ -11,7 +11,7 @@ This essay examines the recent growth of Historical European Martial Arts (HEMA)
 
 Historical European Martial Arts (HEMA), is a form of martial arts based on surviving technical treatises and martial arts manuals from the ==late middle ages=={Q212976}, the ==Renaissance=={Q4692}, and the ==early modern period=={Q5308718}. Combatants fight with historically-accurate weaponry—most commonly longswords, rapiers, and sabers, and sometimes with small shields or bucklers—and wear modern protective equipment, including a fencing helmet, a padded fencing jacket, and armored gloves as well as forearm and leg protection. 
 
-HEMA is similar to Historical Medieval Battle (HMB), also known as buhurt, in that it has a competitive element, but it uses modern protective equipment instead of historical equipment, and it places greater emphasis on authenticity of method. Also, HEMA uses a scoring system similar to modern sports fencing, though with some modifications to account for differences in fighting style and weaponry.
+HEMA is similar to ==Historical Medieval Battle (HMB)=={Q3090325}, also known as buhurt, in that it has a competitive element, but it uses modern protective equipment instead of historical equipment, and it places greater emphasis on authenticity of method. Also, HEMA uses a scoring system similar to modern sports fencing, though with some modifications to account for differences in fighting style and weaponry.
 
 Historical research and scholarship are important to the sport. Many HEMA practitioners are as dedicated to researching medieval and early modern swordsmanship and combat as they are to practicing the techniques and engaging in combat themselves. Historian Robert W. Jones argues that, because of this, HEMA is more than a sport or a martial art:
 
