@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Сахалин",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7000:g7000:ct000746",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:12472.927734375,5786.09765625,1433.26171875,1030.64306640625"
+      },
+      "id": "925eca97"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1e1d0216"
+  }
+]
